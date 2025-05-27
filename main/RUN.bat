@@ -1,2 +1,2 @@
 start wmplayer  "%~dp0\worldexecuteme.mp3"
-call "world.py"
+call "%~dp0\world.py"

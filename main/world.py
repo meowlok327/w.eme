@@ -4,6 +4,15 @@ from time import sleep
 import datetime
 import math
 
+###
+#
+# The program PythonInTheGarden implements an application that
+# creates an empty simulated world with no meaning or purpose
+#
+# @author Meowlok
+#
+###
+
 header = "PythonInTheGarden.py"
 br = "-" * 120
 existObj = []
