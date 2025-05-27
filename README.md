@@ -19,7 +19,7 @@ Try to figure out the problem from the error msg, it might be a wrong dictonary 
 
 ## Declaration
 Neither I nor the organizer of the competition mentioned below , hereinafter referred to as 'My School' , own any of the audio and photos used in this repository; and  
-My School does NOT own [the video]() and this repository.  
+My School does NOT own [the video](https://www.youtube.com/watch?v=h0i72GmHOts) and this repository.  
 If My School claim so... actually I can do nothing but quit school.
 
 ## Some chit chat
