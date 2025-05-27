@@ -10,8 +10,8 @@ Another Python implementation of [Mili - world.execute(me)](https://www.youtube.
 4. run RUN.bat
 
 ## Website
-Yup, I made [a website](https://meowlok327.github.io/w.eme) to show the original photos used in this repository.  
-Yup, my first lang. (written language) is Chinese, sry if I made any grammatical mistakes in English ;D
+Ik the ASCII arts are so blur that it is unreadable, so yup, I made [a website](https://meowlok327.github.io/w.eme) to show the original photos used in this repository.  
+And yup, my first lang. (written language) is Chinese, sry if I made any grammatical mistakes in English ;D
 
 ## Bug report
 If there is a bug, dun ask me to fix it, even I can't read my code.  
